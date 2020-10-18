@@ -46,6 +46,10 @@ const Header = () => {
                            </ul>
                         </li>
                      </ul>
+                     <form action="#" className="d-flex">
+                        <input type="text" className="form-control mr-2" />
+                        <button className="btn btn-outline-info">Search</button>
+                     </form>
                   </div>
                </div>
             </nav>
